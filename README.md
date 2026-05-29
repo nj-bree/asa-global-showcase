@@ -4,7 +4,7 @@
 
 A full-stack web platform for a pan-African aviation ground services company, handling client bookings, operational oversight, and internal communications in one place. Built with a Gmail API integration that ensures no client enquiry is ever missed.
 
-🔗 **[View Live Site](https://asa-global.onrender.com)**
+🔗 **[View Live Site](https://asa-global.up.railway.app/)**
 
 ---
 
